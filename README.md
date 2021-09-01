@@ -298,7 +298,8 @@ model2.fit(train_gen,steps_per_epoch=len(train_idx)//(1*batch_size),  epochs=100
 
 ![Imagesbeagle_120](https://user-images.githubusercontent.com/73283847/131545721-4e429bff-cb46-4f98-869c-9bdc10d14833.jpg)
 
-![Imagesamerican_pit_bull_terrier_169](https://user-images.githubusercontent.com/73283847/131545738-0bc83481-d8a9-4bd5-a434-c5a796f2dd4a.jpg)
+![ImagesBirman_102](https://user-images.githubusercontent.com/73283847/131673894-a53f7bfb-c605-48cf-84ac-2f5f14a08f33.jpg)
+
 
 # Собственная свёрточная нейронная сеть.
 
